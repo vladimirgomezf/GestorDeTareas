@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestorDeTareas.Api/GestorDeTareas.Api.csproj" />
+  <Project Path="GestorDeTareas.Tests/GestorDeTareas.Tests.csproj" />
+</Solution>
